@@ -1,1 +1,2 @@
 4-30 安装了anaconda pyqt6（两份）VPN 
+git diff 是对比谁和谁？
