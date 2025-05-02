@@ -2,3 +2,4 @@
 git diff HEAD -- file是对比谁和谁？
 git checkout -- <file> 撤销工作区修改 其实是用版本库里的版本替换工作区的版本，无论工作区是修改还是删除，都可以“一键还原”。
 git reset HEAD <file> 撤销暂存区修改
+什么是origin？
