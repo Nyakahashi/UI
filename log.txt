@@ -4,3 +4,4 @@ git checkout -- <file> 撤销工作区修改 其实是用版本库里的版本�
 git reset HEAD <file> 撤销暂存区修改
 git stash用于修复bug
 git checkout的作用？
+--no-ff合并是个什么效果有什么用呢 会生成一个新的提交而不是简单的移动指针，能看得出来合并；但是fast-forward在历史上是看不出来的，https://blog.csdn.net/zombres/article/details/82179122
